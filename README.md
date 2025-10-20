@@ -4,6 +4,6 @@
 
 It includes the directories **`raw_data/`**, including standardized SMILES and annotations for *S. hyssopifolia*, *S. glabra*, and *S. rhombifolia*; **`notebooks/`**, including commented, reproducible workflows for the *chemical multiverse* analysis using **PCA**—descriptor space with Lipinski/Veber + O/N counts and **t-SNE**—structure space with *Morgan* fingerprints, radius 2, 1024 bits; and **`results/`** with CSV outputs and PNG visualizations.
 
-To reproduce, install dependencies from **`requirements.txt`** and run the notebooks in a Python editor that supports Jupyter.
+To reproduce, install dependencies from **`requirements.yml`** and run the notebooks in a Python editor that supports Jupyter.
 
 Please cite the manuscript and acknowledge the authors; correspondence: **juan.monribot@inecol.mx** and **joseantonio.guerrero@inecol.mx**.
